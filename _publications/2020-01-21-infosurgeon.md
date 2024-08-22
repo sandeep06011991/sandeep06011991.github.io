@@ -1,6 +1,6 @@
 ---
 title: "Infosurgeon: Cross-media fine-grained information consistency checking for fake news detection"
-authors: "Yi Fung, Christopher Thomas, Revanth Gangi Reddy, <b>Sandeep Polisetty</b>, Heng Ji, Shih-Fu Chang, Kathleen McKeown, Mohit Bansal, Avirup Sil"
+authors: Yi Fung, Christopher Thomas, Revanth Gangi Reddy, <b>Sandeep Polisetty</b>, Heng Ji, Shih-Fu Chang, Kathleen McKeown, Mohit Bansal, Avirup Sil
 collection: publications
 category: conferences
 permalink: /publication/graphmini

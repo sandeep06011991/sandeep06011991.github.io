@@ -7,14 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year PhD student in the College of Information and Computer Sciences at the University of Massachusetts Amherst, advised by [Prof. Hui Guan](https://guanh01.github.io/) and [Prof. Marco Serafini](https://marcoserafini.github.io/).  
-During my PhD, I am working on building efficient systems for *Scalable multi-GPU Graph Neural Network training*. Previously, I also explored *efficient graph analytics frameworks* advised by Prof. Marco Serafini. During my masters, I worked on *scalable distributed transactions* advised by [Prof. Arun Venkataramani](https://marcoserafini.github.io/). 
+I am a final year PhD student in the College of Information and Computer Sciences at the University of Massachusetts Amherst, advised by [Prof. Hui Guan](https://guanh01.github.io/) and [Prof. Marco Serafini](https://marcoserafini.github.io/).  I am currently working on building efficient systems for *Scalable multi-GPU Graph Neural Network training*.
+
+
+Previously, I also explored *efficient graph analytics frameworks* advised by Prof. Marco Serafini. During my masters, I worked on *scalable distributed transactions* advised by [Prof. Arun Venkataramani](https://marcoserafini.github.io/). 
 Prior to coming to USA, I pursued my undergraduate degree at the Indian Institute of Technology, Kharagpur.
 
 Alongside research, I also worked on large industrial software during my internships. I recently finished an internship with Intel as an AI Frameworks Engineer working on a *pytorch extension to support intel hardware*. Previously at [Reservoir Labs](https://www.hipeac.net/network/institutions/7229/reservoir-labs/) (acquired by Qualcomm), I was a Research Engineer working on the popular deep learning *TVM compiler*. Before that, I was a Software Engineer Intern with the AWS distributed systems team.
 
-I am interested in building efficient frameworks for machine learning utilizing both hardware and algorithmic characteristics.
-I am currently seeking internship opportunities for  *Spring 2025* and full time for 2025 Fall.
+I aspire to build infrastructure that is fueling the AI revolution. Efficient and easy to adopt frameworks are especially important with rising hardware costs. 
+To support these goals, I have worked at various levels across the framework such as efficient kernel design, parallelization strategies, compiler abstractions and hardware aware models to optimize performance.
+I am currently seeking internship opportunities for  *Spring 2025* and full time opportunities for *2025 Fall*.
 Please contact me for further details. 
 
 
