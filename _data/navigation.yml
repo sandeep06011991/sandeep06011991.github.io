@@ -21,11 +21,11 @@ main:
   # - title: "Code"
   #   url: /portfolio/
         
-  - title: "Posts"
-    url: /year-archive/
+  # - title: "Posts"
+  #   url: /year-archive/
     
   # - title: "CV"
   #   url: /cv/
     
   - title: "Resume"
-    url: /markdown/
+    url: /files/Resume_2024.pdf
