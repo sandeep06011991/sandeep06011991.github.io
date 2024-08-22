@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 I am a final year PhD student in the College of Information and Computer Sciences at the University of Massachusetts Amherst, advised by [Prof. Hui Guan](https://guanh01.github.io/) and [Prof. Marco Serafini](https://marcoserafini.github.io/).  
-During my PhD, I worked on building efficient systems for *Scalable multi-GPU Graph Neural Network training*. I also explored *efficient graph analytics frameworks* advised by [Prof. Marco Serafini](https://marcoserafini.github.io/).  
-During my masters, I worked on *scalable distributed transactions* advised by [Prof. Arun Venkataramani](https://marcoserafini.github.io/). 
+During my PhD, I am working on building efficient systems for *Scalable multi-GPU Graph Neural Network training*. Previously, I also explored *efficient graph analytics frameworks* advised by Prof. Marco Serafini. During my masters, I worked on *scalable distributed transactions* advised by [Prof. Arun Venkataramani](https://marcoserafini.github.io/). 
 Prior to coming to USA, I pursued my undergraduate degree at the Indian Institute of Technology, Kharagpur.
 
 Alongside research, I also worked on large industrial software during my internships. I recently finished an internship with Intel as an AI Frameworks Engineer working on a *pytorch extension to support intel hardware*. Previously at [Reservoir Labs](https://www.hipeac.net/network/institutions/7229/reservoir-labs/) (acquired by Qualcomm), I was a Research Engineer working on the popular deep learning *TVM compiler*. Before that, I was a Software Engineer Intern with the AWS distributed systems team.
